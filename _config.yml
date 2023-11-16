@@ -89,7 +89,7 @@ author:
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "seelooooo@stu.pku.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : "https://github.com/supercgor.github.io"
+  uri              : "https://supercgor.github.io"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -206,6 +206,13 @@ defaults:
   - scope:
       path: ""
       type: pages
+    values:
+      layout: single
+      author_profile: true
+  # _research
+  - scope:
+      path: ""
+      type: research
     values:
       layout: single
       author_profile: true
