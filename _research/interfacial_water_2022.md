@@ -1,10 +1,10 @@
 ---
 title: "Research experience 1"
+layout: single-portfolio
 collection: research
 type: "Undergraduate Research"
 permalink: /research/interfacial_water_2022
 venue: "Peking University, School of Physics"
-date: 2022-09-01
 location: "Beijing, China"
 ---
 
