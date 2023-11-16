@@ -9,9 +9,9 @@ My academic research is mainly focused on machine learning on scientific problem
 
 # Machine Learning for Computational Studies of Interfacial Water Systems
 
-While the structure of ice crystals is commonly understood as simple, however, the water molecules on the interface between substances and vacuum can be very complicated. For example, there will be [pre-melting](https://www.nature.com/articles/s41570-019-0080-8) layers on the surface of ice. In these quasi-liquid layers, water molecules exhibit a disordered state, forming bi-layer structures and rings. Resolving the physics of these layers can help us understand the reactivity, the crystalization, and the interaction with other substances of water molecules.
+While the structure of ice crystals is commonly understood as simple, however, the water molecules on the interface between substances and vacuum can be complicated. For example, there will be [pre-melting](https://www.nature.com/articles/s41570-019-0080-8) layers on the surface of ice. In these quasi-liquid layers, water molecules exhibit a disordered state, forming bi-layer structures and rings. Resolving the physics of these layers can help us understand the reactivity, the crystalization, and the interaction with other substances of water molecules.
 
-By utilizing one of the characterization techniques in Solid/Liquid interface - Atomic Force Microscope(AFM). We obtain the AFM images from DFT simulations, using neural networks (NN) to discover the spatial information of water molecules. After that, we use this network to predict some realistic structures from real AFM images obtained from our collaborators.
+By utilizing one of the characterization techniques in Solid/Liquid interface - Atomic Force Microscope(AFM). We obtain the AFM images from DFT simulations, using neural networks (NN) to discover the spatial information of water molecules. After that, we apply this method in realistic structures from real AFM images obtained from our collaborators.
 
 ![Research Workflow](../images/research_img1.jpg)
 
