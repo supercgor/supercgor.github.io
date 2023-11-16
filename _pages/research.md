@@ -19,4 +19,6 @@ The real AFM images often contain noise and unexpected defects. To enhance the a
 
 ![Results](../images/research_img2.jpg)
 
-# Physics informed active learning
+# Physics Informed Active Learning
+
+Neural network applications in solving PDEs (PINN) require designing a specific network for each problem, which can be inefficient, especially when dealing with a variety of PDEs with different parameters or geometries. DeepONet introduces a novel approach by decomposing the problem into two interconnected parts
