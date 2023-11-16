@@ -4,6 +4,8 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
+My academic research is mainly focused on machine learning on scientific problems.
+
 
 # Machine Learning for Computational Studies of Interfacial Water Systems
 
