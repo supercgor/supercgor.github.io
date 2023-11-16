@@ -21,7 +21,7 @@ The real AFM images often contain noise and unexpected defects. To enhance the a
 
 # Physics Informed Active Learning
 
-Applications of neural networks in solving PDEs, such as Physics-Informed Neural Networks (PINNs), often require the design of specific networks for each unique problem. This approach can be inefficient, particularly when dealing with a variety of PDEs that have differing parameters or geometries. DeepONet offers an innovative solution by breaking down the problem into two interconnected components - the mapping between functions and coordinate variables - utilizing universal approximation theory. However, in tackling some realistic problems, we still encounter several challenges:
+Applications of neural networks in solving PDEs, such as [Physics-Informed Neural Networks](https://www.sciencedirect.com/science/article/abs/pii/S0021999118307125) (PINNs), often require the design of specific networks for each unique problem. This approach can be inefficient, particularly when dealing with a variety of PDEs that have differing parameters or geometries. [DeepONet](https://arxiv.org/abs/1910.03193) offers an innovative solution by breaking down the problem into two interconnected components - the mapping between functions and coordinate variables - utilizing universal approximation theory. However, in tackling some realistic problems, we still encounter several challenges:
 - The availability of labeled data is limited due to the time-consuming nature of numerical solvers.
 - Data-driven methods often converge faster and with greater accuracy.
 - The quality of training data significantly impacts the effectiveness of the neural network.
