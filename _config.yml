@@ -83,7 +83,7 @@ author:
   name             : "Chon Hei Lo"
   avatar           : "profile.png"
   bio              : "School of Physics, Peking University"
-  location         : "Macau, China"
+  location         : "Beijing, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/supercgor"
+  twitter          : #"https://twitter.com/supercgor"
   vine             :
   weibo            :
   xing             :
