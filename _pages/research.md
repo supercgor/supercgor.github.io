@@ -9,7 +9,7 @@ My academic research is mainly focused on machine learning on scientific problem
 
 # Machine Learning for Computational Studies of Interfacial Water Systems
 
-In the field of solid/liquid interface characterization, we are utilizing Atomic Force Microscopy (AFM) to investigate the behavior of water molecules at the interface between ice crystals and vacuum. While the structure of ice crystals is commonly perceived as straightforward, the water molecules at these interfaces exhibit complex behaviors, such as forming [pre-melting](https://www.nature.com/articles/s41570-019-0080-8) layers and complex ring systems. By delving into the physics of these layers, we aim to enhance our understanding of the reactivity, crystallization, and interactions of water molecules with other substances.
+In the field of solid/liquid interface characterization, we are utilizing Atomic Force Microscopy (AFM) to investigate the behavior of water molecules at the interface between ice crystals and vacuum. While the structure of ice crystals is commonly perceived as straightforward, the water molecules at these interfaces exhibit complex behaviors, such as forming [premelting](https://www.nature.com/articles/s41570-019-0080-8) layers and complex ring systems. By delving into the physics of these layers, we aim to enhance our understanding of the reactivity, crystallization, and interactions of water molecules with other substances.
 
 ![Research Workflow](../images/research_img1.jpg)
 
