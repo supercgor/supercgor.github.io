@@ -9,15 +9,15 @@ My academic research is mainly focused on machine learning on scientific problem
 
 # Machine Learning for Computational Studies of Interfacial Water Systems
 
-While the structure of ice crystals is commonly understood as simple, however, the water molecules on the interface between substances and vacuum can be complicated. For example, there will be [pre-melting](https://www.nature.com/articles/s41570-019-0080-8) layers on the surface of ice. In these quasi-liquid layers, water molecules exhibit a disordered state, forming bi-layer structures and rings. Resolving the physics of these layers can help us understand the reactivity, the crystalization, and the interaction with other substances of water molecules.
-
-By utilizing one of the characterization techniques in Solid/Liquid interface - Atomic Force Microscope(AFM). We obtain the AFM images from DFT simulations, using neural networks (NN) to discover the spatial information of water molecules. After that, we apply this method in realistic structures from real AFM images obtained from our collaborators.
+In the field of solid/liquid interface characterization, we are utilizing Atomic Force Microscopy (AFM) to investigate the behavior of water molecules at the interface between ice crystals and vacuum. While the structure of ice crystals is commonly perceived as straightforward, the water molecules at these interfaces exhibit complex behaviors, such as forming [pre-melting](https://www.nature.com/articles/s41570-019-0080-8) layers and complex ring systems. By delving into the physics of these layers, we aim to enhance our understanding of the reactivity, crystallization, and interactions of water molecules with other substances.
 
 ![Research Workflow](../images/research_img1.jpg)
 
-The real AFM images often contain noise and unexpected defects. To enhance the accuracy of our data, we apply domain adaptation methods, improving the reliability of the experimental findings. We obtain a very reliable label from the data of experiments. However, only one single layer can be very unstable in simulations, we are still developing generative algorithms (such as utilizing [Equivariant Graph Neural Networks](https://www.sciencedirect.com/science/article/abs/pii/S0950705122001289) on [score-based models](https://arxiv.org/abs/2011.13456)). Our goal is to decode the transition between ice crystals and disordered layers, enhancing our understanding of water molecule reactivity and interaction, which has profound implications in various scientific domains.
+We've obtained AFM images through simulations and applied neural networks (NN) to uncover the spatial information of water molecules. This method is further extended to real AFM images acquired from our collaborators, focusing on realistic structures. We've also employed several advanced techniques such as Domain Adaptation (DA), and ice-rules adjustment algorithm to bolster the reliability of our experimental findings. The outcomes on realistic AFM images have proven to be highly accurate and reliable.
 
 ![Results](../images/research_img2.jpg)
+
+Furthermore, We are developing generative algorithms, such as utilizing [Equivariant Graph Neural Networks](https://www.sciencedirect.com/science/article/abs/pii/S0950705122001289) (EGNN) and [score-based models](https://arxiv.org/abs/2011.13456). Our ultimate goal is to decode the transition between ice crystals and disordered layers, thereby deepening our understanding of water molecule reactivity and interaction.
 
 # Physics Informed Active Learning
 
